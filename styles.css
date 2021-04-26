@@ -1,0 +1,40 @@
+header{
+    position: relative;
+    left: 300px;
+}
+.banner{
+    position: relative;
+}
+.banner img{
+  max-width: 100%;
+}
+.banner .welcome{
+  background-color: #FEB614;
+  color: white;
+  padding: 30px;
+  left: 0;
+  position: absolute;
+  border-top-right-radius: 70%;
+  top: 10%;
+}
+.banner h2 span{
+    font-size: 1.5em;
+}
+nav{
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+nav ul{
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+nav li{
+    width: 25%;
+    display: inline-block;
+    font-size: 20px;
+}
+nav li a{
+    text-decoration:none;
+    color: #4b4b4b;
+}
